@@ -88,7 +88,12 @@ button{
     margin-bottom: 20px;
 }
 
+.img-fluid{
+    height: 420px;
+    width:auto;
+}
+
 .largephoto{
-
-
+    height: 900px;
+    width:auto;
 }
