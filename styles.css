@@ -111,3 +111,8 @@ button{
     transform:scale(1.5);
 }
 
+.contact-icon{
+    height: 100px;
+    width: auto;
+}
+
