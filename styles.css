@@ -97,3 +97,16 @@ button{
     height: 900px;
     width:auto;
 }
+
+/* Styling for the Projects Section */
+#projects .projects{
+    margin-bottom: 50px;
+}
+.card-img-top{
+   transition:transform 0.25s ease;  
+}
+
+.card-img-top:hover {
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
