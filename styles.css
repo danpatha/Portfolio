@@ -115,3 +115,9 @@ button{
     width: auto;
 }
 
+.aboutme1{
+    font-size:27px;
+    font-weight:bold;
+    font-style: oblique;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
