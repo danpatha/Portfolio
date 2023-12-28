@@ -87,6 +87,11 @@ button{
     margin-bottom: 20px;
 }
 
+.img-resize{
+    width: 550px;
+    height:auto;
+}
+
 .img-fluid{
     height: 420px;
     width:auto;
