@@ -95,6 +95,7 @@ button{
 .img-fluid{
     height: 420px;
     width:auto;
+   
 }
 
 .largephoto{
@@ -108,7 +109,9 @@ button{
 }
 .card-img-top{
    transition:transform 0.25s ease;  
+   border-radius: 20px;
 }
+
 
 /* .card-img-top:hover {
     -webkit-transform:scale(1.5); 
