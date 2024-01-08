@@ -110,10 +110,10 @@ button{
    transition:transform 0.25s ease;  
 }
 
-.card-img-top:hover {
-    -webkit-transform:scale(1.5); /* or some other value */
+/* .card-img-top:hover {
+    -webkit-transform:scale(1.5); 
     transform:scale(1.5);
-}
+} */
 
 .contact-icon{
     height: 50px;
